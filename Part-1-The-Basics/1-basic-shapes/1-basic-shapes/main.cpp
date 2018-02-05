@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
     glutInitWindowSize(width, height); //Set the window size
     
     //Create the window
-    glutCreateWindow("Basic Shapes - videotutorialsrock.com");
+    glutCreateWindow("Basic Shapes");
     initRendering(); //Initialize rendering
     
     //Set handler functions for drawing, keypresses, and window resizes
